@@ -7,6 +7,8 @@ This tool performs a series of exploration analysis in the movies dataset:
 - Actors and movie network analysis showing the hubs (movie stars) according to the movies in a score range
 - Analysis of most successful writers and directors 
 
+You can see a live demo [here](https://yascoma-dashboard-streamlit-movies-run-ve6r4i.streamlit.app/)
+
 <div style="text-align: center">
 	<img src="ilustration.png" alt="pipeline" title="Movies Dashboard" width="680px" />
 </div>
