@@ -150,7 +150,6 @@ class DashboardActors:
                         
                     dat[m]['cast'] = cast
                     dat[m]['actors'] = actors
-                print(dat)
                 with open('high_scored_imdb_info.json', 'w') as f:
                     json.dump(dat, f)
             
@@ -250,7 +249,6 @@ class DashboardActors:
                     nset.add(pid)
                     nodes.append( Node(id=pid, label=dat[m]['star'], size=25, color=color ) )
                         
-                print(id_, pid)
                 ide=id_+'-'+pid
                 if(not ide in eset):
                     eset.add(ide)
