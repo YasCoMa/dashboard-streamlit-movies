@@ -3,4 +3,5 @@ plotly
 matplotlib
 pandas
 IMDbPY
+seaborn
 streamlit_agraph
