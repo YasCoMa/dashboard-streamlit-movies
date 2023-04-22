@@ -2,5 +2,5 @@ streamlit
 plotly
 matplotlib
 pandas
-imdb
+IMDbPY
 streamlit_agraph
